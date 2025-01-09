@@ -8,6 +8,6 @@ The "include" directory contains only the '.h' files that must be included in 'm
 
 To run the program open the terminal and execute this commands:
 
-1) gcc -o GAME main.c lib/func.c
+> gcc -o GAME main.c lib/func.c
 
-2) ./GAME
+> ./GAME
